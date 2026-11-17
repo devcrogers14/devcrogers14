@@ -2,6 +2,8 @@
 
 I’m a computer science student at Illinois Tech. I like to create little projects and have also experimented in GoDot.
 
+[LinkedIn](https://www.linkedin.com/in/crogers14)
+
 ## Projects
 
 - **[Canvas Readability MCP](https://github.com/devcrogers14/Canvas-API-to-Readibility)** — a Python MCP server that gives AI clients read-only access to Canvas courses, assignments, and modules.
