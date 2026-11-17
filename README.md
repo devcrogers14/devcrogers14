@@ -1,29 +1,31 @@
-![CJ Rogers · Computer science at Illinois Tech](./profile-header.png)
+![Charles Rogers · Computer Science Student at Illinois Tech · Python, JavaScript, and Java](./profile-header.png)
 
 I’m a computer science student at Illinois Tech. I like to create little projects and have also experimented in GoDot.
 
-[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-24547A?style=for-the-badge&labelColor=14283B)](https://www.linkedin.com/in/crogers14)
+[![LinkedIn](https://img.shields.io/badge/in-LinkedIn-363C43?style=for-the-badge&labelColor=181C20)](https://www.linkedin.com/in/crogers14)
 
 ## Projects
 
-### Canvas Readability MCP
-
-A Python MCP server that gives AI clients read-only access to Canvas courses, assignments, and modules.
-
-[![View source](https://img.shields.io/badge/View%20source-24547A?style=flat-square&logo=github&logoColor=91D3FF)](https://github.com/devcrogers14/Canvas-API-to-Readibility)
-
-### Untitled 2D Game
-
-A Godot platformer with coins and slime enemies.
-
-[![Download for Windows](https://img.shields.io/badge/Download%20for%20Windows-24547A?style=flat-square&logo=godotengine&logoColor=91D3FF)](https://github.com/devcrogers14/Untitled-2D-Game-Release/releases/latest)
-
-### Budgeteer 3000
-
-A team budgeting app with savings goals and spending charts.
-
-[![View source](https://img.shields.io/badge/View%20source-24547A?style=flat-square&logo=github&logoColor=91D3FF)](https://github.com/devcrogers14/Budgeteer-3000)
-
-### Folder Detective
-
-A Python file hashing project.
+<table>
+  <tbody>
+    <tr>
+      <td colspan="2" valign="top">
+        <h3>Canvas Readability MCP</h3>
+        <p>A Python MCP server that gives AI clients read-only access to Canvas courses, assignments, and modules.</p>
+        <a href="https://github.com/devcrogers14/Canvas-API-to-Readibility"><img src="https://img.shields.io/badge/View%20source-363C43?style=flat-square&amp;logo=github&amp;logoColor=D3DCE5" alt="View Canvas Readability MCP source"></a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Budgeteer 3000</h3>
+        <p>A team budgeting app with savings goals and spending charts.</p>
+        <a href="https://github.com/devcrogers14/Budgeteer-3000"><img src="https://img.shields.io/badge/View%20source-363C43?style=flat-square&amp;logo=github&amp;logoColor=D3DCE5" alt="View Budgeteer 3000 source"></a>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Untitled 2D Game</h3>
+        <p>A Godot platformer with coins and slime enemies.</p>
+        <a href="https://github.com/devcrogers14/Untitled-2D-Game-Release/releases/latest"><img src="https://img.shields.io/badge/Download%20for%20Windows-363C43?style=flat-square&amp;logo=godotengine&amp;logoColor=D3DCE5" alt="Download Untitled 2D Game for Windows"></a>
+      </td>
+    </tr>
+  </tbody>
+</table>
