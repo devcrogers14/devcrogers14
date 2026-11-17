@@ -1,4 +1,4 @@
-![Charles Rogers · Computer Science Student at Illinois Tech · Python, JavaScript, and Java](./profile-header.png)
+![Terminal showing Charles Rogers at Illinois Tech next to a cartoon monkey coding at a laptop](./profile-header.png)
 
 I’m a computer science student at Illinois Tech. I like to create little projects and have also experimented in GoDot.
 
